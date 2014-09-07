@@ -1,0 +1,27 @@
+>![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[]()
+
+# 综合
+
+- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+	- [Android](https://github.com/JStumpp/awesome-android)
+		- [Android Security](https://github.com/ashishb/android-security-awesome)
+	- [Apple](https://github.com/joeljfischer/awesome-apple)
+	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
+		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+	- Books
+		- [Free Programming Books](https://github.com/vhf/free-programming-books)
+		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+	- [Cordova](https://github.com/busterc/awesome-cordova)
+	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- [Game Development](https://github.com/ellisonleao/magictools)
+	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
