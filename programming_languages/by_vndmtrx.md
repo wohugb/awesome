@@ -1,4 +1,4 @@
->![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[]()
+>![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 
 # @vndmtrx 整理
 # Awesome Node.js
@@ -41,7 +41,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [n](https://github.com/visionmedia/n) - Node版本管理.
 * [nvm](https://github.com/creationix/nvm) - Node版本管理 (does not require prior installation of node).
 
-## 继承开发环境
+## 集成开发环境
 
 *开发使用的IDEs和编辑器*
 

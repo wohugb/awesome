@@ -1,4 +1,4 @@
->![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[]()
+>![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 
 # Awesome JavaScript
 
