@@ -5,18 +5,18 @@
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
 ## FAQ
-- [What is Cordova, what is PhoneGap, what is the difference?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
+- [什么是Cordova, 什么事PhoneGap, 它们之间的不同?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
 
-## Official
-- [Documentation](https://cordova.apache.org/docs/en/edge/index.html)
+## 官方
+- [文档](https://cordova.apache.org/docs/en/edge/index.html)
 - [News Feed RSS](https://cordova.apache.org/rss.xml)
 
-## Plugins
+## 插件
 - [Apache](http://plugins.cordova.io/)
 - [PlugReg](http://plugreg.com/)
 - [Telerik Verified](http://plugins.telerik.com/)
 
-## UI Frameworks
+## UI框架
 
 _Compare these and more at [PropertyCross](http://propertycross.com/)_
 
@@ -31,7 +31,7 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 - [Sencha Touch](http://www.sencha.com/products/touch/)
 - [Mobile Angular UI](http://mobileangularui.com/)
 
-## Icons
+## 图标
 - [Icons8](http://icons8.com/)
 - [Ionicons](http://ionicons.com/)
 - Generators
@@ -39,9 +39,10 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 	- [cordova-gen-icon](https://www.npmjs.org/package/cordova-gen-icon)
 	- [cordova-icon](https://www.npmjs.org/package/cordova-icon)
 
-# Other Awesome Lists
+# 其它赞表
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-# Contributing
-Your contributions are always welcome!
+# 捐献
+
+你的捐献总是受欢迎的!
 

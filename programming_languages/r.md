@@ -3,7 +3,7 @@
 # Awesome R
 
 A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
-
+## 目录
 - [Awesome R](#awesome-r)
     - [Integrated Development Environment](#integrated-development-environment)
     - [Data Manipulation](#data-manipulation)
@@ -28,8 +28,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-## Integrated Development Environment
-*Integrated Development Environment*
+## 集成开发环境
 
 * [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 * [JGR](http://rforge.net/JGR/) - JGR (speak 'Jaguar') is a Java Gui for R.
@@ -40,7 +39,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter,and it supports execution of R code while capturing both output and figures.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
 
-## Data Manipulation
+## 数据操作
 *Packages for cooking data.*
 
 * [dplyr](https://github.com/hadley/dplyr) -  Blazing fast data frames manipulation and database query.
@@ -48,7 +47,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [reshape2](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 
-## Graphic Displays
+## 图形显示
 *Packages for showing data.*
 
 * [ggplot2](https://github.com/hadley/ggplot2) -  An implementation of the Grammar of Graphics.
@@ -60,7 +59,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
-## Reproducible Research
+## 可再生的研究
 *Packages for literate programming.*
 
 * [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
@@ -68,7 +67,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 
-## Web Technologies and Services
+## 网络技术和服务
 *Packages to surf the web.*
 
 * [shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R.
@@ -76,21 +75,21 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 
-## Parallel Computing
+## 并行计算
 *Packages for parallel computing.*
 
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel
 
-## High Performance
+## 高性能
 *Packages for making R faster.*
 
 * [Rcpp](http://rcpp.org/) - Rcpp provides a powerful API on top of R, make function in R extremely faster.
 * [Rcpp11](https://github.com/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 * [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT
 
-## Language API
+## 语言 API
 *Packages for other languages.*
 
 * [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
@@ -103,7 +102,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RcppOctave](RcppOctave) - Seamless Interface to Octave and Matlab.
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 
-## Database Management
+## 数据库管理
 *Packages for managing data.*
 
 * [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
@@ -118,7 +117,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
 * [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
 
-## Machine Learning
+## 机器学习
 *Packages for making R cleverer.*
 
 * [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
@@ -227,7 +226,7 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
-## Natural Language Processing
+## 自然语言处理
 *Packages for Natural Language Processing.*
 
 * [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R.
@@ -238,7 +237,7 @@ Angle Regression
 * [rmmseg4j](http://cran.r-project.org/web/packages/rmmseg4j/index.html) - R interface to the Java Chinese word segmentation system of mmseg4j.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 
-## Bayesian
+## 贝叶斯
 *Packages for Bayesian Inference.*
 
 * [coda](http://cran.r-project.org/web/packages/coda/index.html) - Output analysis and diagnostics for MCMC.
@@ -247,7 +246,7 @@ Angle Regression
 * [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - Running WinBUGS and OpenBUGS from R / S-PLUS.
 * [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - R interface to the OpenBUGS MCMC software.
 
-## Finance
+## 金融
 *Packages for dealing with money.*
 
 * [quantmod](http://www.quantmod.com/) - Quantitative Financial Modelling & Trading Framework for R.
@@ -258,7 +257,7 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 
-## Genetics
+## 遗传学
 *Packages for Statistical Genetics.*
 
 * [Bioconductor](http://www.bioconductor.org/) - Tools for the analysis and comprehension of high-throughput genomic data.
@@ -266,7 +265,7 @@ Angle Regression
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 
-## R Development
+## R 开发
 *Packages for packages.*
 
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
@@ -278,7 +277,7 @@ Angle Regression
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
 
-## Other Interpreter
+## 其他翻译
 *Alternative R engines.*
 
 * [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
@@ -289,11 +288,11 @@ Angle Regression
 * [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 
-# Resources
+# 资源
 
 Where to discover new R-esources.
 
-## Websites
+## 网站
 
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
@@ -302,13 +301,13 @@ Where to discover new R-esources.
 * [Advanced R](http://adv-r.had.co.nz/) -  An in-progress book site for Advanced R.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 
-## Books
+## 书籍
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -  It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as bayesian networks, ggplot2 and Rcpp.
 
-## Reference Card
+## 参考卡片
 
 * [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) - Material from R for Beginners by permission of Emmanuel Paradis (Version 2 by Matt Baggott).
 * [Data Mining Refcard](http://www.rdatamining.com/docs/R-refcard-data-mining.pdf) - R Reference Card for Data Mining.
@@ -317,11 +316,11 @@ Where to discover new R-esources.
 * [R Markdown Cheat sheet](http://shiny.rstudio.com/images/rm-cheatsheet.pdf.zip) - Quick reference guide for writing reports with R Markdown.
 * [Shiny Cheat sheet](http://shiny.rstudio.com/images/cheatsheet.pdf.zip) - Quick reference guide for building Shiny apps.
 
-# Other Awesome Lists
+# 其它赞表
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 
-# Contributing
-Your contributions are always welcome!
+# 捐献
+你的捐献总是受欢迎的!
 

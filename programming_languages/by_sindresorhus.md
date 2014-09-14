@@ -261,7 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
 
 
-### Static site generators
+### 静态网站生成器
 
 - [Metalsmith](http://www.metalsmith.io) - An extremely simple, pluggable static site generator.
 - [Wintersmith](http://wintersmith.io) - Flexible, minimalistic, multi-platform static site generator.
@@ -288,7 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### 数据库
 
-- Drivers
+- 驱动器
   - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
   - [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
   - [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
@@ -298,7 +298,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Bookshelf](http://bookshelfjs.org/) - A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
   - [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js.
   - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
-- Query builder
+- 查询构建器
   - [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 
@@ -366,36 +366,36 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### 教程
 
 - [Nodeschool](http://nodeschool.io) - Learn Node.js with interactive lessons.
-- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
+- [Node艺术](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 
 ### 文章
 
-- [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
+- [Node.js错误处理](http://www.joyent.com/developers/node/design/errors)
 
 ### 视频
 
-- [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [Ryan Dahl的Node.js介绍](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
 ### 播客
 
 - [NodeUp](http://nodeup.com)
 
-### 书本
+### 书籍
 
-- [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
-- [Mastering Node](http://visionmedia.github.io/masteringnode/)
-- [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
+- [Node.js实战](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
+- [控制Node](http://visionmedia.github.io/masteringnode/)
+- [专业的 Node.js: 建立基于Javascript的可扩展的软件](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 
-### 日志
+### 博客
 
-- [Node.js blog](http://blog.nodejs.org)
+- [Node.js博客](http://blog.nodejs.org)
 - [HowToNode](http://howtonode.org) - Teaching how to do various tasks in Node.js as well as teach fundamental concepts that are needed to write effective code.
 
 ### 课程
 
-- [Real Time Web with Node.js](http://node.codeschool.com)
+- [node.js的实时Web ](http://node.codeschool.com)
 
 ### 工具
 
@@ -404,7 +404,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 贡献
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+欢迎捐献! 请首先阅读[贡献的指导方针](contributing.md).
 
 
 ## 许可证

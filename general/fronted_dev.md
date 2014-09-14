@@ -4,7 +4,7 @@
 
 *Looking for something else? Take a look at the [awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).*
 
-+ Guides
++ 引导
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
     + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
     + [Designer School](http://designer-school.com/): A group of passionate professionals teaching web development
@@ -17,7 +17,7 @@
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
-+ Architecture
++ 架构
     + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
@@ -43,7 +43,7 @@
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
     + [The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)
-+ Workflow
++ 工作流
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
@@ -88,7 +88,7 @@
 	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
 	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
-+ Weekly & Daily Resources
++ 每周和每天的资源
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
     + [CSS Weekly](http://css-weekly.com/)
@@ -101,7 +101,7 @@
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
     + [ng-newsletter](http://www.ng-newsletter.com): The free, weekly newsletter of the best AngularJS content on the web.
-+ Programming & Markup Languages
++ 编程和标记语言
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
@@ -347,8 +347,8 @@
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
     + [Outdated Browser](http://outdatedbrowser.com/) - Checks if user's browser is outdated and suggests downloading latest.
-+ Cross Device
-    + Responsive
++ 跨设备
+    + 响应
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)

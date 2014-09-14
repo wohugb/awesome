@@ -7,7 +7,7 @@
 
 
 
-## Motivation
+## 目的
 
 *This part for dummies who are new on Data Science*
 
@@ -30,16 +30,16 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 
 
 
-## What is Data Science?
+## 什么是数据科学?
 
-* [What is Data Science @ O'reilly](http://radar.oreilly.com/2010/06/what-is-data-science.html)
-* [What is Data Science @ Quoara](http://www.quora.com/Data-Science/What-is-data-science)
+* [什么是数据科学 @ O'reilly](http://radar.oreilly.com/2010/06/what-is-data-science.html)
+* [什么是数据科学 @ Quoara](http://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
-* [What is data science](http://www.datascientists.net/what-is-data-science)
-* [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
+* [什么是数据科学](http://www.datascientists.net/what-is-data-science)
+* [什么是数据科学家](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
 )
-* [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
-* [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
+* [维基百科](http://en.wikipedia.org/wiki/Data_science)
+* [数据科学简史](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
 ## MOOC's
 

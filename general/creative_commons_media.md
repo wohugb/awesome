@@ -7,7 +7,7 @@ A curated list of resources that provide media licensed under Creative Commons l
 
 Contributions are very welcome!
 
-## Audio
+## 音频
 
 * [ccmixter](http://ccmixter.org/) - Loops and samples that are co-created into tracks.
 * [free-loops](http://free-loops.com/) - Loops and audio clips.
@@ -15,7 +15,7 @@ Contributions are very welcome!
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
 
-## Graphics
+## 图像
 
 * [AnimalPhotos](http://animalphotos.info/a/) - Thousands of animal pictures.
 * [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
@@ -30,7 +30,7 @@ Contributions are very welcome!
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
 
-## Misc
+## 杂项
 
 * [500px's Creative Commons Search](http://500px.com/creativecommons)
 * [Creative Commons' Search](http://search.creativecommons.org/)
@@ -39,7 +39,7 @@ Contributions are very welcome!
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 
-## Other awesome lists
+## 其它赞表
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 

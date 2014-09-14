@@ -1,7 +1,7 @@
 >![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[0xAX/erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks)
 
 ## Erlang for beginners
-
+## 目录
  * [Why erlang?](http://veldstra.org/whyerlang/)
  * [Erlang: For an absolute beginner](http://dsingleton.co.uk/blog/erlang-beginners-tutorial)
  * [An Erlang OTP tutorial for beginners](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners#.UiIsJafQtLQ)

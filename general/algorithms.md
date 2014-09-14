@@ -4,7 +4,7 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
-
+## 目录
 - [Awesome Algorithms](#awesome-algorithms)
     - [Websites](#websites)
     - [Online Courses](#online-courses)
@@ -13,7 +13,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     - [Online Judges](#online-judges)
     - [Tools](#tools)
 
-## Websites
+## 网站
 
 *Websites you should use to learn classic algorithms*
 
@@ -27,7 +27,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
 * [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
 
-## Online Courses
+## 在线课程
 
 *Free and High Quality University Courses Online*
 
@@ -39,7 +39,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     Similar to the previous one, but with different algorithms.
 * [YogiBearian YouTube Channel](http://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
 
-## Books
+## 书籍
 
 *The most highly regarded books to learn algorithms*
 
@@ -50,7 +50,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 
-## Github Libraries
+## Github 库
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
@@ -103,9 +103,9 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
 
-## Tools
+## 工具
 
-*Some tools that can help you in the learning of algorithms*
+*一些帮助你学习算法的工具*
 
 * [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
     A tool that let you create flowcharts that can simulate real programs.

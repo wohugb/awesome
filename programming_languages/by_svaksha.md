@@ -2,7 +2,7 @@
 
 Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) curating decibans of FOSS resources in scientific computing, big data and data visualization.
 
-##### Mirrors
+##### 镜像
 * [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git
 * [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
 

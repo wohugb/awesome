@@ -4,21 +4,21 @@
 
 A curated list of dotfiles resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Articles
+## 文正
 
-### Generic & Introduction
+### 通用和介绍
 
 * [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfile discovery](http://wynnnetherland.com/journal/dotfiles-discovery)
 
-### Tutorial
+### 手册
 
-* [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+* [开始使用 dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 * [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 
-### Using vcsh & mr
+### 使用 vcsh & mr
 
 * [Manage dotfiles Quickly and Effortlessly](http://www.martin-burger.net/blog/unix-shell/manage-dotfiles-quickly-and-effortlessly/)
 * [Managing dot-files with vcsh and myrepos](http://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
@@ -46,7 +46,7 @@ There are many more great dotfiles repos out there, each containing their own in
 
 Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://www.google.com/#q=site:github.com+.gitconfig).
 
-## Tools
+## 工具
 
 * [Bork](https://github.com/mattly/bork) - a bash DSL for config management
 * [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
@@ -63,13 +63,13 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - A .files runner/manager written in node
 
-## Misc.
+## 杂项.
 
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 * [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
 * [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - A centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
 
-## Related Lists
+## 关联列表
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.

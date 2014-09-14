@@ -19,7 +19,7 @@ But in short:
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
-# 内容
+# 目录
 
 _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 

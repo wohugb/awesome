@@ -1,6 +1,6 @@
 >![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[kirang89/pycrumbs](https://github.com/kirang89/pycrumbs)
 
-#Contents
+#目录
 * [Beginner's Delight](#beginners-delight)
 * [Why Python?](#why-python)
 * [Style Guide and Idioms](#style-guide-and-idioms)

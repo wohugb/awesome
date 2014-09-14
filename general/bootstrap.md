@@ -1,10 +1,10 @@
 >![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 
-#awesome-bootstrap
+# awesome-bootstrap
 
 A curated list of free Bootstrap themes I think are cool. Inspired by awesome.
 
-### 单页
+## 单页
 
 - [agency](http://startbootstrap.com/template-overviews/agency/)
 - [Amoeba](http://www.bootstrapzero.com/bootstrap-template/amoeba)
@@ -37,20 +37,20 @@ A curated list of free Bootstrap themes I think are cool. Inspired by awesome.
 - [techro](http://webthemez.com/techro-free-responsive-bootstrap-web-template/)
 - [Xeon](http://shapebootstrap.net/item/xeon-best-onepage-site-template/)
 
-### 管理仪表板
+## 管理仪表板
 - [lightway](http://www.prepbootstrap.com/bootstrap-theme/lightway-admin)
 - [Responsive Dashboard](https://github.com/Ehesp/Responsive-Dashboard)
 - [metis](http://demo.onokumus.com/metis/)
 
-### 复古的主题
+## 复古的主题
 - [BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/)
 
-### UI Kits
+## 用户界面工具包
 *These aren't full out-of-the-box themes, rather, they are components you can use in your own creations.*
 - [Flat UI](http://designmodo.github.io/Flat-UI/)
-- [todc-bootstrap (Google-styled theme)](https://github.com/todc/todc-bootstrap)
+- [todc-bootstrap (谷歌样式主题)](https://github.com/todc/todc-bootstrap)
 
-### 扩展列表
+## 扩展列表
 *I'll list any source lists here to help generate some traffic to them too.*
 - [35-best-free-bootstrap-themes](http://www.downloadnewthemes.com/2014/08/35-best-free-bootstrap-themes.html)
 - [40 Free Bootstrap Themes to Jump Start Your Web Design Project](http://savedelete.com/2014/08/15/free-bootstrap-themes/174529)
@@ -63,8 +63,8 @@ A curated list of free Bootstrap themes I think are cool. Inspired by awesome.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-### Contribution Guidelines
-**CONTRIBUTIONS NEEDED!**
+## 投稿指南
+**捐款的必需!**
 
 **My biggest need right now is screenshots of each to showcase here in the readme, and maybe a better way of organizing them. Anyone willing to take on one of those tasks?**
 

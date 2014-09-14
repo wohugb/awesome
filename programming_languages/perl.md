@@ -13,7 +13,7 @@ We also recommend these lists.
 * [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
 * Many Task::** Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
-### Contents
+### 目录
 
 - [Awesome Perl](#awesome-perl)
     - [Benchmarks](#benchmarks)

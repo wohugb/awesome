@@ -4,7 +4,7 @@
 
 A curated list of amazingly awesome awesomeness
 
-- Programming Languages
+- 编程语言
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
@@ -49,7 +49,7 @@ A curated list of amazingly awesome awesomeness
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
-- General
+- 通用
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
@@ -87,7 +87,7 @@ A curated list of amazingly awesome awesomeness
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 
-## License
+## 许可证
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 

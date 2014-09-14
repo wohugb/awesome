@@ -1,6 +1,6 @@
 >![](http://www.easyicon.net/api/resize_png_new.php?id=1174989&size=16)[RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 
-Awesome Conferences
+Awesome 会议
 ===================
 
 A list of awesome conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.

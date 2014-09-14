@@ -36,16 +36,16 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
   - [Contributing](#contributing)
 
 
-## Libraries
+## 库
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
-#### Clipboard
+####剪切板
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
-#### Filesystem
+#### 文件系统
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
 
-#### Graphics
+#### 图像
 * [GDIp](http://www.autohotkey.com/board/topic/29449-) - Full featured library that helps in interaction with Microsoft's gdiplus.dll .
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 
@@ -55,11 +55,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Hotkeys
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
-#### Maths
+#### 数学
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 
-#### Text manipulation
+#### 文本操作
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 
@@ -77,13 +77,13 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 
 
-## Scripts
+## 脚本
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
-#### Clipboard <a name="scripts-clipboard"></a>
+#### 剪切板 <a name="scripts-clipboard"></a>
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
-#### Filesystem <a name="scripts-filesystem"></a>
+#### 文件系统 <a name="scripts-filesystem"></a>
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc)
 
 #### GUI <a name="scripts-gui"></a>
@@ -92,10 +92,10 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### GUI automation
 * [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you can't a move window with the WinMove command, you can use this script.
 
-#### Mouse
+#### 鼠标
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648)
 
-#### Typing
+#### 打字
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/)
 * [TypingAid](http://www.autohotkey.net/~Maniac/TypingAid/TypingAid%20v2.19d.zip) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/)
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193)
