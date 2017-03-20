@@ -1,4 +1,4 @@
->![sindresorhus](https://avatars1.githubusercontent.com/u/170270?v=3&s=400) [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+>![Sindre Sorhus](https://avatars1.githubusercontent.com/u/170270?v=3&s=18) [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 #Awesome Awesomeness
 
