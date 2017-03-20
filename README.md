@@ -2,10 +2,7 @@
 
 #Awesome Awesomeness
 
-令人惊讶的真棒迷死人的策划列表
-
-
-> A curated list of awesome lists
+> 精彩列表的精选列表
 
 - [什么是awesome列表?](awesome.md)
 - [贡献指南](contributing.md)
@@ -20,12 +17,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## 内容
 - [平台](#platforms)
-- [编程语言s](#programming-languages)
+- [编程语言](#programming-languages)
 - [前端开发](#front-end-development)
 - [后端开发](#back-end-development)
 - [计算机科学](#computer-science)
 - [大数据](#big-data)
-- [Theory](#theory)
+- [理论](#theory)
 - [书籍](#books)
 - [编辑器](#editors)
 - [游戏](#gaming)
@@ -43,8 +40,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [杂项](#miscellaneous)
 
 
-## Platforms
-
+## 平台
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
@@ -71,8 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
 
 
-## Programming Languages
-
+## 编程语言
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 	- [Standard Style](https://github.com/feross/awesome-standard)
@@ -134,8 +129,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 
 
-## Front-End Development
-
+## 前端开发
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
@@ -196,8 +190,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
 
 
-## Back-End Development
-
+## 后端开发
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
@@ -222,8 +215,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 
 
-## Computer Science
-
+## 计算机科学
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -244,8 +236,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
 
 
-## Big Data
-
+## 大数据
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
@@ -253,8 +244,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 
 
-## Theory
-
+## 理论
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -265,8 +255,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Math](https://github.com/rossant/awesome-math)
 
 
-## Books
-
+## 数据
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Go Books](https://github.com/dariubs/GoBooks)
@@ -276,8 +265,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Elixir Books](https://github.com/sger/ElixirBooks)
 
 
-## Editors
-
+## 编辑器
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
@@ -285,8 +273,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
 
 
-## Gaming
-
+## 游戏
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) - Game engine.
@@ -298,8 +285,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 
 
-## Development Environment
-
+## 开发环境
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
@@ -320,16 +306,14 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 
 
-## Entertainment
-
+## 娱乐
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
 
 
-## Databases
-
+## 数据库
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -341,8 +325,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 
 
-## Media
-
+## 媒体
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
@@ -354,8 +337,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 
 
-## Learn
-
+## 学习
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
@@ -367,8 +349,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
 
 
-## Security
-
+## 安全
 - [Application Security](https://github.com/paragonie/awesome-appsec)
 - [Security](https://github.com/sbilly/awesome-security)
 - [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag.
@@ -380,8 +361,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
 
-## Content Management Systems
-
+## 内容管理
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
@@ -389,8 +369,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
 
-## Hardware
-
+## 硬件
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
@@ -398,15 +377,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 
 
-## Business
-
+## 商业
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 
 
-## Work
-
+## 工作
 - [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
@@ -415,16 +392,14 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 
-## Networking
-
+## 网络
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
 
-## Miscellaneous
-
+## 杂项
 - [JSON](https://github.com/burningtree/awesome-json)
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
