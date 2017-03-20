@@ -4,70 +4,43 @@
 
 令人惊讶的真棒迷死人的策划列表
 
-- 编程语言
-	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-	- [C/C++](https://github.com/fffaraz/awesome-cpp)
-	- [Clojure](https://github.com/razum2um/awesome-clojure)
-	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	- [D](https://github.com/zhaopuming/awesome-d)
-	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-	- [Elixir](https://github.com/h4cc/awesome-elixir)
-	- Erlang
-		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
-		- [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
-	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
-	- [Go](https://github.com/avelino/awesome-go)
-	- [Groovy](https://github.com/kdabir/awesome-groovy)
-	- [Haskell](https://github.com/krispo/awesome-haskell)
-	- [Java](https://github.com/akullpp/awesome-java)
-	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-<h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
-	<br>
-	<br>
-</h1>
 
 > A curated list of awesome lists
 
-- [What is an awesome list?](awesome.md)
-- [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)
-- [Sticker](https://www.stickermule.com/marketplace/10034-awesome)
-- [Chat](https://gitter.im/sindresorhus/awesome)
-
-Just type [`awesome.re`](https://awesome.re) to go here. ✨
+- [什么是awesome列表?](awesome.md)
+- [贡献指南](contributing.md)
+- [创建列表](create-list.md)
+- [贴纸](https://www.stickermule.com/marketplace/10034-awesome)
+- [聊天](https://gitter.im/sindresorhus/awesome)
 
 ---
 
 Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
 
-## Contents
-
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
+## 内容
+- [平台](#platforms)
+- [编程语言s](#programming-languages)
+- [前端开发](#front-end-development)
+- [后端开发](#back-end-development)
+- [计算机科学](#computer-science)
+- [大数据](#big-data)
 - [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Miscellaneous](#miscellaneous)
+- [书籍](#books)
+- [编辑器](#editors)
+- [游戏](#gaming)
+- [开发环境](#development-environment)
+- [娱乐](#entertainment)
+- [数据](#databases)
+- [多媒体](#media)
+- [学习](#learn)
+- [安全](#security)
+- [内容管理](#content-management-systems)
+- [硬件](#hardware)
+- [商业](#business)
+- [工作](#work)
+- [网络](#networking)
+- [杂项](#miscellaneous)
 
 
 ## Platforms
